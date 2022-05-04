@@ -1,0 +1,60 @@
+_repo: Der-Zweifussler-und-andere-Geschichten-Naturgeschichtliche-Marchen_67897
+_version: 0.0.1
+alternative_title: 'Der Zweifüssler und andere Geschichten: Naturgeschichtliche Märchen'
+contributor:
+  illustrator:
+    agent_name: Planck, Willy
+    alias: Planck, W. (Willy)
+    birthdate: 1870
+    deathdate: 1956
+    gutenberg_agent_id: '39646'
+    url: http://www.gutenberg.org/2009/agents/39646
+    wikipedia: https://de.wikipedia.org/wiki/Willy_Planck
+creator:
+  author:
+    agent_name: Ewald, Carl
+    alias: Ewald, Karl
+    birthdate: 1856
+    deathdate: 1908
+    gutenberg_agent_id: '1711'
+    url: http://www.gutenberg.org/2009/agents/1711
+    wikipedia:
+    - https://da.wikipedia.org/wiki/Carl_Ewald
+    - https://en.wikipedia.org/wiki/Carl_Ewald
+  editor:
+    agent_name: Kiy, Hermann
+    aliases:
+    - Kiy, Herman
+    - Kij, Hermann
+    birthdate: 1879
+    deathdate: 1963
+    gutenberg_agent_id: '50008'
+    url: http://www.gutenberg.org/2009/agents/50008
+description: ''
+gutenberg_issued: '2022-04-21'
+identifiers:
+  gutenberg: '67897'
+language: de
+pgterms:marc905: 20160712104958ewald
+pgterms:marc906: '1922'
+pgterms:marc907: de
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Franckh'sche Verlagshandlung,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human beings -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Nature -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- GITenberg
+tableOfContents: Der Zweifüßler -- Libelle und Seerose -- Das Ding in viererlei Gestalt
+  -- Das Unkraut -- Die Unsichtbaren -- Der Kuckuck -- Der Seestern -- Die Buche und
+  die Eiche -- Der Ameisenhügel -- Die Korallen -- Eine unglaubliche Geschichte --
+  Der Wind -- Der gute Mann.
+title: 'Der Zweifüßler und andere Geschichten: Naturgeschichtliche Märchen'
+url: http://www.gutenberg.org/ebooks/67897
