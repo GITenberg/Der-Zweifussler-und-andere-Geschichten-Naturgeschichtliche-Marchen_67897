@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '39646'
     url: http://www.gutenberg.org/2009/agents/39646
     wikipedia: https://de.wikipedia.org/wiki/Willy_Planck
+covers:
+- cover_type: archival
+  image_path: 67897-h/images/cover.jpg
 creator:
   author:
     agent_name: Ewald, Carl
@@ -31,6 +34,8 @@ creator:
     gutenberg_agent_id: '50008'
     url: http://www.gutenberg.org/2009/agents/50008
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67897#Der-Zweifussler-und-andere-Geschichten-Naturgeschichtliche-Marchen
 gutenberg_issued: '2022-04-21'
 identifiers:
   gutenberg: '67897'
